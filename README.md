@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="center" > Tynzn writes code </h2>
+<h2 align="center" > Tynzn writes code as yeagit</h2>
 
 
 - 🔭 I’m currently working on  general service web app 
